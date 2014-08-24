@@ -23,14 +23,14 @@ public class VanillaIceCream {
 	}
 
 	/**
-	 * @return the toppings
+	 * @return the topping
 	 */
 	public ArrayList<Topping> getToppings() {
 		return toppings;
 	}
 
 	/**
-	 * @param toppings the toppings to set
+	 * @param toppings the topping to set
 	 */
 	public void setToppings(ArrayList<Topping> toppings) {
 		this.toppings = toppings;
