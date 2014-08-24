@@ -51,6 +51,7 @@ public class VanillaIceCream {
 	}
 	
 	public static void main(String[] args) {
+		//create a custom vanilla ice cream for fun
 		VanillaIceCream vic = new VanillaIceCream();
 		ArrayList<Toppings> toppings = new ArrayList<>();
 		toppings.add(Toppings.CHOCOLATE_CANDY);
